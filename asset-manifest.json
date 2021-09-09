@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ThulaniNyama-about/static/css/main.990ac9f1.chunk.css",
+    "main.css": "/ThulaniNyama-about/static/css/main.3b5cd1de.chunk.css",
     "main.js": "/ThulaniNyama-about/static/js/main.b3a518e3.chunk.js",
     "main.js.map": "/ThulaniNyama-about/static/js/main.b3a518e3.chunk.js.map",
     "runtime-main.js": "/ThulaniNyama-about/static/js/runtime-main.8149f77e.js",
@@ -10,13 +10,13 @@
     "static/js/3.c1e92deb.chunk.js": "/ThulaniNyama-about/static/js/3.c1e92deb.chunk.js",
     "static/js/3.c1e92deb.chunk.js.map": "/ThulaniNyama-about/static/js/3.c1e92deb.chunk.js.map",
     "index.html": "/ThulaniNyama-about/index.html",
-    "static/css/main.990ac9f1.chunk.css.map": "/ThulaniNyama-about/static/css/main.990ac9f1.chunk.css.map",
+    "static/css/main.3b5cd1de.chunk.css.map": "/ThulaniNyama-about/static/css/main.3b5cd1de.chunk.css.map",
     "static/js/2.689bbf63.chunk.js.LICENSE.txt": "/ThulaniNyama-about/static/js/2.689bbf63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8149f77e.js",
     "static/js/2.689bbf63.chunk.js",
-    "static/css/main.990ac9f1.chunk.css",
+    "static/css/main.3b5cd1de.chunk.css",
     "static/js/main.b3a518e3.chunk.js"
   ]
 }
