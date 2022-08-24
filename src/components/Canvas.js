@@ -76,7 +76,7 @@ const Canvas = props => {
 
 		    if (!looping) startLoop();
 		  });
-		  canvas.addEventListener('mouseup', e => clicked = false);
+		  canvas.addEventListener('mouseup', e => clicked = true);
 		  canvas.addEventListener('mouseleave', e => clicked = false);
 		  
 		  function rot(x,y,t) {
