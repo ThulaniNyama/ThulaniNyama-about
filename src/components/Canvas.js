@@ -8,10 +8,10 @@ const Canvas = props => {
     	const canvas = canvasRef.current
     	//Draw skils sphere
     	const texts = [
-		  'Firebase', 'MongoDB', 'SQL', 'Yarn', 'NPM',
-		  'React', 'Docker', 'Bootstrap', 'Angular', '.Net',
-		  'GraphQL', 'CSS', 'HTML5', 'PHP', 'JavaScript',
-		  'Swift', 'C', 'Java', 'C#',
+		  'AWS', 'AZURE', 'GCP', 'Sci-Kit Learn', ' TensorFlow',
+		  'MySQL', 'API', 'Power BI', 'Trello', 'Git',
+		  'Pandas', 'Spark', 'Python', 'SQL', 'Python',
+		  'Streamlit', 'Flask', 'Java', 'DAX',
 		];
 		const counts = [1,2,4,5,4,2,1];
 
